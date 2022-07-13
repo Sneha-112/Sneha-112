@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sneha-112
-- 👀 I’m interested in JAVA,C++,HTML,CSS,React.
+- 👀 I’m interested in JAVA,API,Angular.
 - 🌱 I’m currently Bachelor's in LPU ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me snehad086@gmail.com
